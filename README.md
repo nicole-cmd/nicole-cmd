@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi! 🌱
 
+I'm Nicole, a recent CS and GWSS graduate looking for opportunities to work with data. 
+
+- 🔧 Pronouns: she/her
+- 💬 Ask me about GWSS at Grinnell.
+- 📫 How to reach me: https://www.linkedin.com/in/nicole-gorrell-375a59260/
+- 🔭 I’m currently working on a Data Visualization project through Extern!
+- ⚡ Fun fact: I saw Slayyyter for free 🤓
 <!--
 **nicole-cmd/nicole-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
